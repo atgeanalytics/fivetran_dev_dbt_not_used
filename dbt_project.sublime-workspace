@@ -1,0 +1,234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0055716_fivetran_googleads_compunnel/CU_Google_Ads_TestValidation.lst",
+		"/Users/d01026039/Downloads/temp_save_sublime",
+		"/Users/d01026039/Downloads/20210202_snf_worksheet_general_save",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0055543_cureports_inboundftp/CHG0055543_dev_run_output",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0055543_cureports_inboundftp/CHG0055543_dev_validation",
+		"/Users/d01026039/Downloads/TASK00686919_ecollege_activity_data",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0055491_ScottCameron_Admission_matrix/CHG0055491_Admission_matrix_Implementation_Plan",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054039_GoogleAdsFinalURL/CHG0054039_GoogleAdsFinalURL_Implementation_Plan",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0055377_fivetran_google_ads_v1/CHG0055377_Fivetran_googleads_Implementation_Plan",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0055491_ScottCameron_Admission_matrix/CHG0055491_Implementation_Plan",
+		"/Users/d01026039/Downloads/o93000628.00",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0055377_fivetran_google_ads_v1/CHG0055377_dev_validation_results",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0055208_UAR/CHG0055208_Implementation_Plan",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0055208_UAR/dev_audit_p1.sh_run_log",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0055208_UAR/dev_audit_uar.sh_run_log",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0055032_ROWCOUNT_compare/dev_test_evidence",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG000_ROWCOUNT_compare/dev_rowcount_compare_run_log",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054786_SSN/CHG0054786_SSN_Implementation_Plan",
+		"/Users/d01026039/Downloads/2020_benefits_info",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054881_DataOpportunityVendor_BeckerMarketing/CHG0054881_qa_job_run_simulation_log.txt",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054881_DataOpportunityVendor_BeckerMarketing/CHG0054881_qa_obj_creation_log",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054881_DataOpportunityVendor_BeckerMarketing/CHG0054881_qa_validation",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054881_DataOpportunityVendor_BeckerMarketing/CHG0054881_Implementation_Plan",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054786_SSN/CHG0054786_qa_validation_check_output2",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHGBKRMKTG/CHGBKRMKTG_Implementation_Plan",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHGBKRMKTG/CHGBKRMKTG_bkrmktgdbcmptv_get_parfile_log.txt",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHGBKRMKTG/CHGBKRMKTG_create_mktg_cmptive_db_log.txt",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054786_SSN/CHG0054786_validation_check_output",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054786_SSN/CHG0054786_test_evidence",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054786_SSN/CHG_SSN_Implementation_Plan",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG_SSN/CHG_SSN_Implementation_Plan",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054136_v_spriden/CHG0054136_v_spriden_Implementation_Plan",
+		"/Users/d01026039/Downloads/Projects/iics_log_for_audit_work",
+		"/Users/d01026039/Downloads/Projects/Audit",
+		"/Users/d01026039/Downloads/Projects/SNFCleanUp",
+		"/Users/d01026039/Downloads/Projects/Googleads",
+		"/Users/d01026039/Downloads/Projects/RowcountCompare",
+		"/Users/d01026039/Downloads/Projects/SSNWork.txt",
+		"/Users/d01026039/Downloads/Projects/20201016_runbook",
+		"/Users/d01026039/Downloads/Projects/Vidcruiter",
+		"/Users/d01026039/Downloads/Projects/OracleQueries",
+		"/Users/d01026039/Downloads/compare_bnr_snf_phy.sh",
+		"/Users/d01026039/Downloads/rowcompare_bnr_cu_snf.sql",
+		"/Users/d01026039/Downloads/rowcompare_bnr_cu.sql",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/202004_IICS_Audit_work/load_user_groups_iics",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/202004_IICS_Audit_work/load_audit_iics",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/202004_IICS_Audit_work/iics_load_security",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054388_Vidcruiter_CU/implementation_plan",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG_Vidcruiter_CU/implementation_plan",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG_Vidcruiter_CU/load_data_vc_output.txt",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG_Vidcruiter_CU/step4_create_vidcruiter_object_privs.sql_output.txt",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG_Vidcruiter_CU/step3_create_vidcruiter_objects2.sql_output.txt",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG_Vidcruiter_CU/step2_create_vidcruiter_objects.sql_output.txt",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG_Vidcruiter_CU/step1_create_storage_key.sql_output.txt",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG_Vidcruiter_CU/create_vidcruiter_object_privs.sql_output.txt",
+		"/Users/d01026039/Documents/Ramki/Personal/PersonalLink/loginnotes",
+		"/Users/d01026039/Downloads/gen_notes",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG_Vidcruiter_CU/create_vidcruiter_objects.sql_output.txt",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG_Vidcruiter_CU/create_vidcruiter_objects2.sql_output.txt",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG_Vidcruiter_CU/load_data_vc_data_load_info.txt",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/INC00901448_GoogleAdsFINALURL/googleads_finalurl_fix_everyday",
+		"/Users/d01026039/Documents/OfficeLinks/myimpfile",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054039_GoogleAdsFinalURL/CHG0054039_file_deployed_qa_evidence",
+		"/Users/d01026039/Documents/Ramki/Office/Documents/Official/Projects/201809_snowflake/SNF-GeneralDocs/ChangesbyRamki/CHG0054039_GoogleAdsFinalURL/CHG0054039_create_table_FINALURL_output_qa_run",
+		"/Users/d01026039/Downloads/Vidcruiter/interview-api-dev-postApplicantData.yaml",
+		"/Users/d01026039/Downloads/Vidcruiter/interview-api-dev-postApplicantData-26c3efb6-8ed3-41ba-8567-3ffe6d273e73/schema/post_applicant.json",
+		"/Users/d01026039/Downloads/Vidcruiter/interview-api-dev-postApplicantData-26c3efb6-8ed3-41ba-8567-3ffe6d273e73/handler.js",
+		"/Users/d01026039/Downloads/MacNewThingsNote",
+		"/Users/d01026039/Downloads/20180819_rp_things_to_do_new_mac",
+		"/Users/d01026039/Downloads/chg_rp1_run_log.txt"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dbt_project.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
